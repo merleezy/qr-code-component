@@ -42,6 +42,5 @@ I learned more about the CSS Grid layout and how different properties work toget
 
 ## Author
 
-- Website - [Merleezy](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@merleezy](https://www.frontendmentor.io/profile/merleezy)
 - Twitter - [@merleezy_](https://www.twitter.com/merleezy_)
